@@ -2,7 +2,7 @@
 # core package is for RNN, cpu and gpu are for specific system speed-ups
 tensorflow==1.15.4
 tensorflow-cpu==2.1.2
-tensorflow-gpu==1.15.4
+tensorflow-gpu==2.6.4
 umap-learn
 visdom
 librosa>=0.5.1
